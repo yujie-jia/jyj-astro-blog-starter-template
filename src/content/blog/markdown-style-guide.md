@@ -1,7 +1,7 @@
 ---
-title: "Markdown Style Guide"
-description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
-pubDate: "Jun 19 2024"
+title: "Memorable pic of 223 SCUT SE"
+description: "Here is a memory store about 223 of SCUT SE; It is created by the magic cat."
+pubDate: "Jun 19 2025"
 heroImage: "/magic_cat.jpg"
 ---
 
