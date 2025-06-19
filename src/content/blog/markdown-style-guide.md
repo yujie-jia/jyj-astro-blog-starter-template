@@ -2,10 +2,10 @@
 title: "Markdown Style Guide"
 description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
 pubDate: "Jun 19 2024"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "/magic_cat.jpg"
 ---
 
-Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
+Here is a memory store about 223 of SCUT SE; It is created by the magic cat, and then will add a bunch of invaluable cartoon pictures which are transformed by real interesting activities, stay tuned!!!
 
 ## Headings
 
